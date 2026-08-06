@@ -1,0 +1,46 @@
+appdirs==1.4.4
+asgiref==3.12.1
+certifi==2026.7.22
+cffi==2.1.0
+charset-normalizer==3.4.9
+contourpy @ file:///home/builder/.termux-build/python-contourpy/src/dist/contourpy-1.3.3-cp314-cp314-android_arm.whl#sha256=d9b864bb4ccaa798563389bce771c59f0849c0dbf6acf3db1ad226635fa8d44b
+cryptography @ file:///home/builder/.termux-build/python-cryptography/src
+cycler==0.12.1
+Django==6.0.7
+django-oauth-toolkit==3.4.0
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+drf-yasg==1.21.15
+fonttools==4.63.0
+glcontext==3.0.0
+gunicorn==26.0.0
+idna==3.18
+ImageIO==2.37.4
+inflection==0.5.1
+jwcrypto==1.5.8
+kiwisolver==1.5.0
+matplotlib @ file:///home/builder/.termux-build/matplotlib/src/dist/matplotlib-3.11.1-cp314-cp314-android_arm.whl#sha256=d710e8ecfffd2eec5a36f812a22513122a82de82374b21ad19c7e753fb03748f
+moderngl==5.12.0
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.4.4-cp314-cp314-android_arm.whl#sha256=5d5083b041c844e526bfc83a486b29d3683a78d0e28745874132ed1cc68c1271
+oauthlib==3.3.1
+packaging==26.2
+pillow @ file:///home/builder/.termux-build/python-pillow/src
+pycparser==3.0
+pygame==2.6.1
+PyJWT==2.8.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+python-vtk==0.0.0
+pytz==2026.3.post1
+pyvista==0.36.0
+PyYAML==6.0.3
+requests==2.34.2
+scooby==0.11.2
+setuptools==83.0.0
+six==1.17.0
+sqlparse==0.5.5
+typing_extensions==4.12.2
+tzdata==2026.3
+uritemplate==4.2.0
+urllib3==2.7.0
+wheel==0.47.0
